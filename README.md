@@ -2,4 +2,8 @@
 
 Welcome to my learning portfolio! I use this account specifically to track progress in my DevOps journey.
 
-Connect with me on [GitHub](https://github.com/navin99x).
+> Happy Coding
+
+**Connect with me on:**  
+<br>
+[![](https://skillicons.dev/icons?i=github)](https://github.com/navin99x)
